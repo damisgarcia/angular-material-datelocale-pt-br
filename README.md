@@ -1,11 +1,11 @@
 # angular-material-datelocale-pt-br
 
 ### Dependencies
-Momment.js, Angular, Angular Material
+Moment.js, Angular, Angular Material
 
 ### Install
 
-`<script src='/momment.js'>`
+`<script src='/moment.js'>`
 
 `<script src='/angular.js'>`
 
